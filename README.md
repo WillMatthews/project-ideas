@@ -40,3 +40,14 @@ Free the shackles of your mind that everything must be done in actual space and 
 ### Notes
 I've tried this in js and python. Fundamentally we need to FFT2 the image three times (r,g,b channels).
 FFT2 is quite expensive, so I was only able to get a couple of frames per second. womp womp.
+
+
+## Pepper Grinder
+tbd
+
+## Piss.dev
+### The Motive
+I bought a funny domain.
+
+### The Gag
+Create an estimator for your hydration (and eventually when you piss).
