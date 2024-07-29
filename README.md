@@ -3,6 +3,15 @@
 
 A lot of these claims need citations. Read at own risk.
 
+## is-micropackage
+I have [opinions](https://willmatthews.xyz/posts/npm-micropackages/) on micropackages - none of them good.
+For the sake of comedy and writing an npm package, I want to write `is-micropackage`, which determines if other npm packages are micropackages.
+This may be a bit nontrivial, but could be worthwhile.
+
+## Trunp-Or-Markov
+I think a Markov chain is about the right level of complexity to approximate Trump.
+This project would be making a small game where you have to guess if you're reading a real trump tweet or a markov-chain-generated fragment.
+
 ## RISC-V-ML
 
 ### The Motive
