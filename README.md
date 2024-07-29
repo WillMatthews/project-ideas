@@ -3,6 +3,10 @@
 
 A lot of these claims need citations. Read at own risk.
 
+## squeal
+there are no good SQL linters out there for postgres.
+Might make sense to make one in golang.
+
 ## is-micropackage
 I have [opinions](https://willmatthews.xyz/posts/npm-micropackages/) on micropackages - none of them good.
 For the sake of comedy and writing an npm package, I want to write `is-micropackage`, which determines if other npm packages are micropackages.
